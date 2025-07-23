@@ -1,3 +1,5 @@
+Materials Used:
+
 1. BTS7960 Motor Driver (43A Dual H-Bridge)(x2):
 The BTS7960 is a high-power dual H-Bridge motor driver capable of handling up to 43A current. It is responsible for controlling 
 the speed and direction of two brushed DC motors. In this project, it directly receives PWM signals from the RC receiver and translates 
